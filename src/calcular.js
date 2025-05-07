@@ -10,6 +10,22 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
+
+  if (operador = "+") {
+    return num1 + num2
+  }
+
+  if (operador = "-") {
+    return num1 - num2
+  }
+
+  if (operador = "*") {
+    return num1 * num2
+  }
+
+  if (operador = "/") {
+    return num1 / num2
+  }
   // TODO: implementar função
 }
 

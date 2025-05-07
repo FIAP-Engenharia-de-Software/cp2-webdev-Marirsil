@@ -9,8 +9,10 @@
 // - Retorna `"A frase não contém a palavra de busca"` caso contrário;
 // - Remove espaços extras no início e no final da frase antes de realizar a verificação.
 
+
+
 function verificarPalavra(frase, palavraBusca) {
-  // TODO: implementar função
+
 }
 
 //NÃO REMOVA O CÓDIGO ABAIXO
